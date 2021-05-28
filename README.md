@@ -2,6 +2,7 @@ ToepassingenAlgebraInformatica2020
 
 -Euler,ModPOW,Mod,Orde,Prima,A-Peusodprime & ToBinary geschreven door Niklas Van der Mersch
 -Inverse geschreven door Tom Henderickx
+-Totient geschreven door Bram Hamaekers
 
 Gebruiken op eigen risico, bugs kunnen er zijn. 
 
