@@ -4,6 +4,7 @@ ToepassingenAlgebraInformatica2020
 -Inverse geschreven door Tom Henderickx
 -Arthur Bols verbeterde het XS Binair Algoritme voor de A-PsuedoPrime
 -Bram Hamaekers schreef Totient
+- Tibo Van den Eede schreef MODPOWXL om a^e mod m voor a = [1,2,...,m-1] uit te voeren. Dit versimpeld het process van RSA.
 
 Gebruiken op eigen risico, bugs kunnen er zijn. 
 
